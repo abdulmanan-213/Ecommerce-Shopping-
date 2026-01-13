@@ -1,16 +1,31 @@
-<<<<<<< HEAD
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛒 Ecommerce Shopping Application – Frontend
 
-Currently, two official plugins are available:
+A modern, responsive Ecommerce Shopping Application Frontend built using React.js.
+This project provides a smooth user experience for browsing products, viewing details, managing cart items, and preparing for checkout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 Features
+🏠 Home page with featured products
+🔍 Product listing with details
+🛒 Add to cart & remove from cart
+📦 Product detail page
+🔐 User authentication UI (Login / Register)
+📱 Fully responsive design
+⚡ Fast and optimized UI
+🎨 Clean and modern UI/UX
+🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+Frontend Framework: React.js
+Styling: CSS / Tailwind CSS / Bootstrap (update if needed)
+State Management: Context API / Redux (update if applicable)
+Routing: React Router
+API Handling: Axios / Fetch API
+Version Control: Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Ecommerce-Shopping-
->>>>>>> 931dd0093414ebcca2903ab9fbf9bfe74ff96a10
+🚀 Getting Started
+Follow these steps to run the project locally.
+1️⃣ Clone the repository
+git clone https://github.com/abdulmanan-213/Ecommerce-Shopping-.git
+2️⃣ Navigate to client folder
+cd Ecommerce-Shopping-/client
