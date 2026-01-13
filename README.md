@@ -23,9 +23,3 @@ Routing: React Router
 API Handling: Axios / Fetch API
 Version Control: Git & GitHub
 
-🚀 Getting Started
-Follow these steps to run the project locally.
-1️⃣ Clone the repository
-git clone https://github.com/abdulmanan-213/Ecommerce-Shopping-.git
-2️⃣ Navigate to client folder
-cd Ecommerce-Shopping-/client
